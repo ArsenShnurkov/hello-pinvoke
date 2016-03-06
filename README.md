@@ -12,3 +12,18 @@ see also:
 - https://github.com/iburlakov/pinvoke-sample (native from strange language)
 - https://github.com/bryonbaker/Xamarin-PInvoke-Example (with makefile)
 - https://github.com/gjmwolmarans/Xamarin.Android.PInvokeSample ("compile the mathlib with ndk-build")
+
+## automake
+
+# find /usr -iname "amhello-1.0.tar.gz"
+/usr/share/doc/automake-1.13.4/amhello-1.0.tar.gz
+
+http://www.gnu.org/software/automake/manual/html_node/Creating-amhello.html
+http://www.gnu.org/software/automake/manual/html_node/A-Shared-Library.html
+http://www.gnu.org/software/automake/manual/html_node/Use-Cases.html
+http://stackoverflow.com/questions/8916425/how-to-create-a-shared-library-so-in-an-automake-script
+http://unix.stackexchange.com/questions/89165/how-to-write-software-to-compile-with-external-libraries
+
+## xbuild in subdirectory
+
+https://www.gnu.org/software/automake/manual/html_node/Third_002dParty-Makefiles.html

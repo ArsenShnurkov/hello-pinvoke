@@ -229,8 +229,30 @@ FakesAssemblies/
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
 
-# Paket dependency manager
-.paket/paket.exe
 
-# FAKE - F# Make
-.fake/
+# autotools files
+configure
+compile
+libtool
+Makefile.in
+Makefile
+aclocal.m4
+config.h
+config.log
+config.status
+config.guess
+config.sub
+depcomp
+install-sh
+ltmain.sh
+missing
+.deps
+.libs
+*~
+*.o
+*.cache
+autom4te.cache
+COPYING
+INSTALL
+native/libshared-objects.la
+native/shared-object.lo
